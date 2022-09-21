@@ -1,3 +1,3 @@
-Options for ideas for telegram bot tasks:
+Telegram bot task options:
 
-1. You send the bot a link to a video from YouTube, and it cuts the audio format from there and returns you a link to download the audio.
+To-do list - BOT. A menu of buttons "View tasks for today", "Record new task", "Delete completed task". When a task is completed, it will be displayed crossed out. There will be offers from the bot to bind an event, time, reminder.
